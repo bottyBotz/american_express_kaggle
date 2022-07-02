@@ -1,0 +1,12 @@
+pycaret
+markupsafe==2.0.1
+Jinja2
+
+category_encoders
+
+catboost
+xgboost
+
+pandas
+numpy
+scipy
